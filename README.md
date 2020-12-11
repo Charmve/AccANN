@@ -9,11 +9,11 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 
 ## Related Works
 
-[1]: AdderNet: Do We Really Need Multiplications in Deep Learning? [[paper](https://arxiv.org/abs/1912.13200) | [code](https://github.com/huawei-noah/AdderNet)]
+[1] AdderNet: Do We Really Need Multiplications in Deep Learning? [[paper](https://arxiv.org/abs/1912.13200) | [code](https://github.com/huawei-noah/AdderNet)]
 
 [2] AdderSR: Towards Energy Efficient Image Super-Resolution [[paper](https://arxiv.org/abs/2009.08891) | code]
 
-[3]: Kernel Based Progressive Distillation for Adder Neural Networks [[paper](https://arxiv.org/abs/2009.13044) | [code]()]
+[3] Kernel Based Progressive Distillation for Adder Neural Networks [[paper](https://arxiv.org/abs/2009.13044) | [code]()]
 
 [4] GhostNet: More Features from Cheap Operations [[paper](https://arxiv.org/abs/1911.11907) | [code](https://github.com/huawei-noah/ghostnet)]
 
