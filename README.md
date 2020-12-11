@@ -9,7 +9,7 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 
 ## Related Works
 
-[1] AdderNet: Do We Really Need Multiplications in Deep Learning? [[paper](https://arxiv.org/abs/1912.13200) | [code](https://github.com/huawei-noah/AdderNet)]
+[1] Hanting Chen, Yunhe Wang, Chunjing Xu, Boxin Shi, Chao Xu, Qi Tian, and Chang Xu. Addernet: Dowe really need multiplications in deep learning? arXiv preprint arXiv:1912.13200, 2019. [[paper](https://arxiv.org/abs/1912.13200) | [code](https://github.com/huawei-noah/AdderNet)]
 
 [2] AdderSR: Towards Energy Efficient Image Super-Resolution [[paper](https://arxiv.org/abs/2009.08891) | code]
 
