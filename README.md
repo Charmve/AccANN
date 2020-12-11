@@ -1,6 +1,10 @@
 # AccANN
-A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration for AdderNet
+A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration for AdderNet.
 
+<div align=center><img src="./img/figure/figure1.png"></div>
+<br>
+<div align=center><img src="./img/figure/figure1.png"></div>
+<br>
 
 
 ## Related Works
