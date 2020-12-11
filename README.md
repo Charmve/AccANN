@@ -3,7 +3,7 @@ A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto
 
 <div align=center><img src="./img/figure/figure1.png"></div>
 <br>
-<div align=center><img src="./img/figure/figure1.png"></div>
+<div align=center><img src="./img/figure/figure2.png"></div>
 <br>
 
 
