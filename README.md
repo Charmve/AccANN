@@ -19,4 +19,6 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 
 [5] GhostNet: More Features from Cheap Operations [[paper](https://arxiv.org/abs/1911.11907) | [code](https://github.com/huawei-noah/ghostnet)]
 
-[6] DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs [[paper](https://docs.wixstatic.com/ugd/c50250_77e06b7f02b44eacb76c05e8fbe01e08.pdf) | [code](https://github.com/IBM/AccDNN)]
+[6] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [[paper](https://arxiv.org/abs/1704.04861) | [code](https://github.com/Zehaos/MobileNet)]
+
+[7] DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs [[paper](https://docs.wixstatic.com/ugd/c50250_77e06b7f02b44eacb76c05e8fbe01e08.pdf) | [code](https://github.com/IBM/AccDNN)]
