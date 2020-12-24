@@ -22,3 +22,10 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 [6] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [📑[paper](https://arxiv.org/abs/1704.04861) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/Zehaos/MobileNet)]
 
 [7] DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs [📑[paper](https://docs.wixstatic.com/ugd/c50250_77e06b7f02b44eacb76c05e8fbe01e08.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/IBM/AccDNN)]
+
+
+## 🍮 Community
+- Github <a href="https://github.com/Charmve/AccANN/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/AccANN/issues" target="_blank">issues 💭</a>
+
+- QQ Group: 697948168 (password：AccANN)
+- Email: yidazhang#gmail.com 
