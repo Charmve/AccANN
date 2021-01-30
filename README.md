@@ -27,10 +27,12 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 
 [6] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [📑[paper](https://arxiv.org/abs/1704.04861) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/Zehaos/MobileNet)]
 
-[7] And the bit goes down: Revisiting the quantization of neural networks (ICLR 2020). Pierre Stock, Armand Joulin, Remi Gribonval. [📑[paper](https://arxiv.org/pdf/1907.05686.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/facebookresearch/kill-the-bits)]
+[7] VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing. Qian Zhang, Jianjun Li, Meng Yao. [📑[paper](https://arxiv.org/pdf/1907.05653v1.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/zma-c-137/VarGFaceNet)]
 
-[8] DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs [📑[paper](https://docs.wixstatic.com/ugd/c50250_77e06b7f02b44eacb76c05e8fbe01e08.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/IBM/AccDNN)]
+[8] And the bit goes down: Revisiting the quantization of neural networks (ICLR 2020). Pierre Stock, Armand Joulin, Remi Gribonval. [📑[paper](https://arxiv.org/pdf/1907.05686.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/facebookresearch/kill-the-bits)]
 
-[9] AdderNet and its Minimalist Hardware Design for Energy-Efficient Artificial Intelligence. Yunhe Wang, Mingqiang Huang, Kai Han, et.al. [📑[paper](https://arxiv.org/pdf/2101.10015.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> code]
+[9] DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs [📑[paper](https://docs.wixstatic.com/ugd/c50250_77e06b7f02b44eacb76c05e8fbe01e08.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/IBM/AccDNN)]
 
-[10] Dong Wang, Ke Xu and Diankun Jiang, “PipeCNN: An OpenCL-Based Open-Source FPGA Accelerator for Convolution Neural Networks”, FPT 2017. [📑[paper](https://arxiv.org/abs/1611.02450) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/doonny/PipeCNN)]
+[10] AdderNet and its Minimalist Hardware Design for Energy-Efficient Artificial Intelligence. Yunhe Wang, Mingqiang Huang, Kai Han, et.al. [📑[paper](https://arxiv.org/pdf/2101.10015.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> code]
+
+[11] Dong Wang, Ke Xu and Diankun Jiang, “PipeCNN: An OpenCL-Based Open-Source FPGA Accelerator for Convolution Neural Networks”, FPT 2017. [📑[paper](https://arxiv.org/abs/1611.02450) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/doonny/PipeCNN)]
