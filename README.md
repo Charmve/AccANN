@@ -29,6 +29,6 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 
 [7] DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs [📑[paper](https://docs.wixstatic.com/ugd/c50250_77e06b7f02b44eacb76c05e8fbe01e08.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/IBM/AccDNN)]
 
-[8] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [📑[paper](https://arxiv.org/pdf/2101.10015.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> code]
+[8] AdderNet and its Minimalist Hardware Design for Energy-Efficient Artificial Intelligence. Yunhe Wang, Mingqiang Huang, Kai Han, et.al. [📑[paper](https://arxiv.org/pdf/2101.10015.pdf) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/> code]
 
 [9] Dong Wang, Ke Xu and Diankun Jiang, “PipeCNN: An OpenCL-Based Open-Source FPGA Accelerator for Convolution Neural Networks”, FPT 2017. [📑[paper](https://arxiv.org/abs/1611.02450) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/doonny/PipeCNN)]
