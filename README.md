@@ -19,7 +19,7 @@ Fig 2. Visualization of features in different neural networks on MNIST dataset. 
 
 [2] AdderSR: Towards Energy Efficient Image Super-Resolution. Dehua Song, Yunhe Wang, Hanting Chen, Chang Xu, Chunjing Xu, Dacheng Tao. Arxiv, 2020. [📑[paper](https://arxiv.org/abs/2009.08891) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>code]
 
-[3] ShiftAddNet: A Hardware-Inspired Deep Network. Haoran You, Xiaohan Chen, Yongan Zhang, Chaojian Li, Sicheng Li, Zihao Liu, Zhangyang Wang, Yingyan Lin. NeurIPS, 2020.
+[3] ShiftAddNet: A Hardware-Inspired Deep Network. Haoran You, Xiaohan Chen, Yongan Zhang, Chaojian Li, Sicheng Li, Zihao Liu, Zhangyang Wang, Yingyan Lin. NeurIPS, 2020. [📑[paper](https://arxiv.org/abs/2010.12785) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/RICE-EIC/ShiftAddNet)]
 
 [4] Kernel Based Progressive Distillation for Adder Neural Networks. Yixing Xu, Chang Xu, Xinghao Chen, Wei Zhang, Chunjing XU, Yunhe Wang. NeurIPS, 2020. [📑[paper](https://arxiv.org/abs/2009.13044) | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code]()]
 
